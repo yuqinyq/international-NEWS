@@ -1,0 +1,64 @@
+@charset "UTF-8";
+/*This is the public cascading style sheet*/
+.intro{
+    background: #fafafa;
+}
+#section img{
+    width: 100%;
+}
+.intro p{
+    font-size: 0.5em;
+    height: 20%;
+    color: #777777;
+    padding:2px 20px;
+}
+.a-content{
+    padding:5px 10px;
+}
+.a-content p , section p{
+    padding:10px 10px;
+}
+.a-headline {
+    font-size: 17px;
+    padding:20px 0;
+    border-bottom: 1px solid #fff;
+}
+.news-ul {
+    text-decoration:blink;
+    padding: 20px 20px;
+    margin:10px 20px;
+    border-bottom: 1px solid #fff;
+}
+.news-ul li{
+    margin-top: 10px;
+}
+.news-ul li a{
+    color: #222;
+    font-weight: bold;
+}
+.pop{
+    padding:0.5em 1em ;
+    font: normal 300 1.3em sans-serif;
+}
+#popNew{
+    background: #040303;
+}
+#popNew h2{
+    color: #dacfcf;
+}
+/*热门左上角排名红标*/
+.num{
+    width: 1.6em;
+    height: 1.5em;
+    color: #fff;
+    position: absolute;
+    background: #c00036;
+    text-align: center;
+}
+/**/
+dd{
+    margin:0.5em 0.3em;
+}
+.select{
+    box-shadow: inset 0 0 0.5em;
+}

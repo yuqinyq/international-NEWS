@@ -1,0 +1,79 @@
+{
+  "Most Read":
+  [
+    {
+      "pic"     : "Prince.jpg"  ,
+      "headline" : "Prince Philip to step down from carrying out royal engagements" ,
+      "time"    : "2 hours ago" ,
+      "state"   : "UK",
+      "html"     :"json/Segment of html/Top Prince Philip.html"
+    },
+    {
+      "pic"     : "FrenchElection.jpg"  ,
+      "headline" : "French election: Macron and Le Pen both claim debate success" ,
+      "time"    : "10m" ,
+      "state"   : "Europe",
+      "html"     :"json/Segment of html/Top french.html"
+    },
+    {
+      "pic"     : "afghan.jpg"  ,
+      "headline" : "Afghan warlord Hekmatyar returns to Kabul after peace deal" ,
+      "time"    : "1h" ,
+      "state"   : "Asia",
+      "html"     :"json/Segment of html/Top afghan.html"
+    },
+    {
+      "pic"     : "Somalia.jpg"  ,
+      "headline" : "Somalia attack: Minister Abas Abdullahi Sheikh killed in Mogadishu" ,
+      "time"    : "30m" ,
+      "state"   : "Africa",
+      "html"     :"json/Segment of html/Top french.html"
+    },
+    {
+      "pic"     : "redbull.jpg"  ,
+      "headline" : "Wanted Thai Red Bull heir Vorayuth 'not in Singapore'" ,
+      "time"    : "5h" ,
+      "state"   : "Asia",
+      "html"     :"json/Segment of html/Top Prince Philip.html"
+    }
+  ],
+  "Most Watched":
+  [
+    {
+      "pic"     : "Prince.jpg"  ,
+      "headline" : "Prince Philip to step down from carrying out royal engagements" ,
+      "time"    : "2 hours ago" ,
+      "state"   : "UK",
+      "html"     :"json/Segment of html/Top Prince Philip.html"
+    },
+    {
+      "pic"     : "FrenchElection.jpg"  ,
+      "headline" : "French election: Macron and Le Pen both claim debate success" ,
+      "time"    : "10m" ,
+      "state"   : "Europe",
+      "html"     :"json/Segment of html/Top french.html"
+    },
+    {
+      "pic"     : "afghan.jpg"  ,
+      "headline" : "Afghan warlord Hekmatyar returns to Kabul after peace deal" ,
+      "time"    : "1h" ,
+      "state"   : "Asia",
+      "html"     :"json/Segment of html/Top afghan.html"
+    },
+    {
+      "pic"     : "Somalia.jpg"  ,
+      "headline" : "Somalia attack: Minister Abas Abdullahi Sheikh killed in Mogadishu" ,
+      "time"    : "30m" ,
+      "state"   : "Africa",
+      "html"     :"json/Segment of html/Top french.html"
+    },
+    {
+      "pic"     : "redbull.jpg"  ,
+      "headline" : "Wanted Thai Red Bull heir Vorayuth 'not in Singapore'" ,
+      "time"    : "5h" ,
+      "state"   : "Asia",
+      "html"     :"json/Segment of html/Top Prince Philip.html"
+    }
+  ]
+}
+
